@@ -1,0 +1,1516 @@
+number,type
+114,intel xeon x5690
+58,intel core i5-3470
+57,intel core i7-6700
+54,intel core i7-4790
+54,intel core i7-3770
+52,amd ryzen 7 2700x
+52,intel core i3-2100
+51,intel core i7-2600
+50,intel core i7-4770
+49,intel core i5-2400
+48,intel core i7-7700k
+46,intel core i3-3220
+44,intel xeon x5650
+44,intel core i7-4790k
+42,intel core i5-750
+42,intel core 2 duo e8400
+42,intel core i5-650
+41,intel core i3-2120
+41,intel core i5-6500
+36,amd fx-6300
+35,intel core i7-6700k
+34,intel core i5-3570
+34,amd fx-8350
+33,intel core i9-9900k
+32,amd fx-4100
+32,intel core i5-4590
+31,intel xeon x5670
+31,amd ryzen 7 3700x
+30,amd athlon x4 840
+29,intel core i7-8700k
+29,intel pentium e5200
+29,amd ryzen 5 2600
+29,intel xeon e5-1620
+28,intel xeon e5-2670
+28,amd a10-5700
+28,intel core i3-3240
+28,amd fx-4300
+27,amd phenom ii x4 955
+27,intel core i5-4570
+27,intel core i7-2600k
+27,intel core i5-2500k
+27,amd ryzen 9 3900x
+26,intel xeon e5-1620 v2
+26,amd ryzen 5 1600
+26,intel core 2 duo e7200
+25,intel xeon e5-2650 v2
+25,amd a8-5500
+25,amd ryzen 5 3600
+25,intel core i5-4690k
+24,intel core 2 duo e7500
+24,amd a10-5800k
+24,intel core i7-7700
+24,amd a8-6500
+23,intel pentium e2140
+23,amd a4-5300
+23,amd fx-6100
+23,intel pentium g3220
+23,amd ryzen 5 3600x
+23,intel pentium iii
+23,amd phenom ii
+23,intel core i7-920
+23,amd phenom ii x4 965
+23,amd ryzen 3 2200g
+22,amd ryzen 5 5600x
+22,intel xeon e5-2650
+22,intel xeon e5-2620
+22,intel core i5-6600
+22,amd phenom ii x6 1055t
+22,intel core i3-540
+22,intel core i5-2500
+21,intel core i3-2100t
+21,intel core i7-870
+21,intel core i7-860
+21,amd athlon ii x2 280
+21,intel core 2 quad q9300
+21,amd fx-9590
+21,intel core i5-3330
+20,intel core 2 quad q6600
+20,intel xeon e5-2630
+20,intel core 2 quad q8200
+20,amd phenom ii x3 710
+20,intel core i3-4130
+20,amd a8-6600k
+19,intel core i3-530
+19,intel xeon e5-1620 v3
+19,intel core i5-3570k
+19,intel core i7-9700k
+19,amd ryzen 7 5800x
+19,intel xeon e5-2620 v2
+19,amd a6-6400k
+18,intel xeon e5640
+18,intel xeon x5675
+18,intel core 2 duo e8500
+18,intel core i7-5820k
+18,amd athlon ii x2 215
+18,amd athlon ii x2 240
+18,intel xeon e5-620
+18,amd athlon 64
+18,amd athlon ii x4 630
+17,intel xeon e5-2690
+17,intel xeon e5-2690 v4
+17,intel core i7-4770k
+17,intel core i5-6500t
+17,amd ryzen 3 1200
+17,intel xeon e5-2640
+17,intel xeon x5680
+17,amd phenom ii x4 945
+17,intel xeon e5-2620 v4
+17,amd ryzen 5 2600x
+17,intel xeon gold 5218r
+17,intel core 2 duo e6550
+17,amd ryzen 5 1400
+16,intel pentium g2030
+16,intel core i5-4690
+16,amd a6-3500
+16,amd a8-7600
+16,amd fx-8150
+16,intel core i5-7500
+16,intel core i5-4460
+16,amd ryzen 7 1700
+16,intel xeon e5-2670 v2
+16,amd k6-2
+16,amd athlon x4 750k
+15,intel core i7-6700t
+15,amd athlon ii x2 250
+15,intel xeon e5-2690 v3
+15,intel pentium g2010
+15,amd ryzen 7 1700x
+15,intel xeon e5-2697 v2
+14,amd ryzen 5 2400g
+14,intel xeon e5-2665
+14,intel xeon e5-2640 v3
+14,amd ryzen 5 1600x
+14,intel core i5-4670k
+14,intel core i7-950
+14,amd fx-4100 fx-4130 fx-4300 fx-4350
+14,intel pentium g4400
+14,amd a4-3300
+14,intel xeon e5-645
+14,intel core i5-760
+14,intel xeon e5-2640 v4
+14,intel xeon e5-1650 v2
+14,intel core 2 duo e4300
+14,intel core i7-3770k
+14,amd a10-7850k
+13,intel xeon e5-2603 v3
+13,intel xeon e5-2630 v3
+13,amd athlon x4 760k
+13,intel core i5-7400
+13,intel core i3-6100t
+13,intel xeon x5660
+13,amd fx-8320
+13,intel xeon e5-2630 v4
+13,intel xeon e5-2630 v2
+13,amd phenom ii x6 1045t
+13,amd a4-6300
+13,intel core 2 extreme qx6700
+13,amd fx-8120
+13,intel core i5-540m
+13,intel core i7-6950x
+13,amd a10-7800
+13,amd athlon x4 870k
+13,amd fx-8300
+13,intel core 2 quad q9400
+13,amd opteron 6378
+13,amd a8-3870k
+13,intel core i3-550
+13,intel xeon e5-2660
+13,amd athlon ii x2 235e
+13,amd a8-5600k
+13,intel pentium e5300
+13,amd ryzen 3 3200g
+12,amd fx
+12,intel xeon l5640
+12,intel core i5-6400
+12,intel core i7-3770s
+12,amd a10-6700
+12,amd a4-7300
+12,amd athlon ii x4 620
+12,intel core i7-930
+12,intel xeon e5-2470v2
+12,intel xeon gold 6146
+12,intel xeon e5-2680 v4
+12,intel core i5-2400s
+12,intel xeon e3-1220 v3
+12,intel xeon e3-1220 v2
+12,intel core i5-2300
+12,intel xeon e5-2660 v2
+12,intel xeon e3-1230 v2
+12,amd athlon 64 x2
+12,intel core i3-4160
+11,amd a10-7860k
+11,intel core i5-8500
+11,intel xeon e5-2690 v2
+11,intel core i5-4570t
+11,intel pentium g840
+11,intel xeon e5-2680 v2
+11,intel xeon e5-1650 v4
+11,intel xeon e5-2603 v2
+11,intel xeon e5-2680
+11,intel xeon e5-2697 v4
+11,amd ryzen 3 1300x
+11,intel xeon e5-2699 v3
+11,amd athlon
+11,amd athlon ii x4 640
+11,intel xeon e5-2650 v4
+11,amd a6-9500
+11,intel core i5-4430
+11,intel pentium g2020
+11,amd ryzen 5 3400g
+11,amd a6-3650
+10,amd athlon x4 860k
+10,intel core i5-2520m
+10,intel pentium mmx
+10,intel xeon e5-1603
+10,intel core i5-3470s
+10,intel pentium e5400
+10,intel xeon e5-1650 v3
+10,amd phenom ii x2 550
+10,intel pentium g630
+10,amd athlon ii x4 635
+10,intel core i5-8600k
+10,amd athlon 64 3500+
+10,amd ryzen threadripper 1950x
+10,amd amd-k6-2
+10,intel xeon e5-2699 v4
+10,amd phenom x4 9750
+10,amd a8-3850
+10,amd a6-5400k
+10,amd ryzen threadripper 1920x
+10,intel core i5-8400
+10,intel core 2 duo e8200
+10,intel xeon x3430
+10,intel core 2 duo e6400
+10,intel xeon x5460
+10,intel core i7-8700
+10,intel core 2 quad q9550
+10,intel xeon x5677
+9,intel pentium e2160
+9,intel xeon e5-2680 v3
+9,intel xeon e5-2670 v3
+9,intel xeon e3
+9,intel xeon e5645
+9,intel core i5-6600k
+9,intel core i3-4170
+9,intel core i5-2320
+9,intel core i3-2125
+9,intel core i5-7600k
+9,intel core i7-4771
+9,intel xeon e5-2650 v3
+9,intel core 2 duo e7400
+9,amd phenom ii x6 1035t
+9,intel xeon e5-2637 v2
+9,intel xeon e5-2640 v2
+9,amd athlon ii x2 245
+9,intel xeon e5-2609 v2
+8,intel xeon e5-2660 v4
+8,amd a6-4400m
+8,amd fx-8100 8120 8150
+8,amd athlon xp
+8,intel core i3-2120t
+8,amd a4-3400
+8,intel xeon e5-2620 v3
+8,intel xeon e5-4650
+8,amd ryzen 7 1800x
+8,amd fx-8320e
+8,amd ryzen 7 2700
+8,intel core 2 quad q9550s
+8,intel xeon e5-2430v2
+8,intel core i5-3550
+8,intel core 2 quad q8300
+8,amd phenom ii x4 840
+8,intel core i5-3450
+8,amd phenom ii x6 1100t
+8,intel core i3-4150
+8,intel xeon e5-2637 v4
+8,intel core i7-4960x
+8,intel xeon e5-2667 v3
+8,intel core i7-4790s
+8,intel xeon e3-1240 v2
+8,amd sempron 140
+8,intel core i7-4820k
+8,intel core i7-8700t
+8,intel xeon e5-2683 v4
+8,amd fx-4130
+8,intel xeon e5-2695 v2
+8,intel core i7-4930k
+8,amd ryzen 9 3950x
+8,intel xeon e3-1270 v5
+8,amd ryzen 3 3100
+8,intel core i3-7100
+7,intel pentium g2120
+7,intel core i7-3960x
+7,intel core i7-6800k
+7,intel core i7-975
+7,intel pentium g3258
+7,amd phenom ii x6 1090t
+7,intel core i9-7900x
+7,intel core i5-6600t
+7,intel core i5-9600k
+7,intel core i5-4570s
+7,amd phenom ii x4 820
+7,intel core i7-2600s
+7,intel pentium e2180
+7,amd ryzen 7 3800x
+7,intel xeon e3-1230
+7,amd a8-7650k
+7,intel core 2 duo e4500
+7,intel xeon e5-2609
+7,amd athlon ii x4 645
+7,amd athlon ii x4
+7,intel core 2 duo e6750
+7,amd athlon ii x2 260
+7,intel xeon e5-2643 v2
+7,intel xeon e3-1240 v5
+7,intel xeon e5-2660 v3
+7,intel core 2 duo e7600
+7,intel xeon e5-2683 v3
+7,intel xeon e3-1231 v3
+7,intel xeon e5-2687w
+7,intel xeon e5-2695 v4
+7,intel core 2 duo e4400
+7,intel pentium ii
+7,intel xeon x5687
+7,amd fx-6350
+7,amd a10-7700k
+7,amd fx-8100
+7,intel xeon x3450
+6,intel core i7-720qm
+6,intel core i7-5775c
+6,amd athlon ii x2 270
+6,amd a10-6800k
+6,intel xeon e5-2623 v3
+6,intel core i7-740qm
+6,intel xeon e5-2643 v3
+6,intel xeon e5-2609 v3
+6,amd a10-6790k
+6,intel xeon e5-2603
+6,intel xeon e5-2470
+6,intel xeon e5-2450v2
+6,intel core i7-7800x
+6,intel core 2 duo e4600
+6,intel core i5-520m
+6,amd a10-9700
+6,intel core i3-3225
+6,amd ryzen 5 1500x
+6,intel core i5-660
+6,amd ryzen 9 3900xt
+6,intel core i3-4160t
+6,amd a8-7500
+6,intel core 2 duo t9600
+6,intel xeon e5-2698 v4
+6,amd a6-3600
+6,amd r5-5600x
+6,intel core 2 duo e8600
+6,intel core i3-2310m
+6,amd athlon ii 260u
+6,intel xeon e5-2683 v4 es
+6,amd phenom ii x4 840t
+6,intel core i7-3820
+6,amd athlon 64 3800+
+6,intel core i5-8500t
+6,intel core i3-2130
+6,intel xeon w-2150b
+6,amd ryzen3_1200
+6,intel pentium g620
+6,amd phenom ii x6 1075t
+6,intel xeon e3-1271 v3
+6,intel pentium e5700
+6,intel pentium e2200
+6,intel core i5-4440
+6,amd epyc 7f72
+6,intel core i7-990x
+6,amd fx-4170
+6,intel core i5-4670
+6,intel core i5-2310
+6,amd fx-6200
+6,amd_athlon-3000g
+6,amd phenom ii x3 720
+6,intel xeon e3-1225 v3
+6,amd epyc 7601
+6,intel pentium g850
+6,intel core i7-880
+6,intel xeon e5-2420 v2
+6,intel xeon 6152
+6,intel core i3-6300
+6,intel xeon e5-2407
+6,intel pentium e5800
+5,intel xeon e5-2697 v3
+5,amd ryzen 9 5900x
+5,amd opteron 6272
+5,intel xeon e5-2695 v3
+5,intel xeon e3-1220 v5
+5,intel core i7-2630qm
+5,intel xeon e3-1225
+5,amd epyc 7261
+5,intel xeon e3-1230 v5
+5,intel xeon e3-1220
+5,intel xeon e5450
+5,amd a8-9600
+5,intel xeon 5160
+5,amd-k6-2
+5,amd athlon 64 x2 3800+
+5,intel core i3-3220t
+5,intel core i5-8600
+5,intel xeon platinum 8180
+5,intel xeon silver 4114
+5,intel xeon silver 4210
+5,intel xeon w-2140b
+5,intel core i5-7500t
+5,amd a10-7870k
+5,intel pentium g3250
+5,intel xeon x5570
+5,amd fx-8370e
+5,intel core i9-7980xe
+5,intel xeon e5-2430
+5,intel core i3-560
+5,intel core i7-9700kf
+5,intel core i7-5930k
+5,intel xeon e3-1265l v2
+5,amd athlon 64 x2 4400+
+5,intel core i5-3350p
+5,intel core 2 duo e6420
+5,intel xeon e3-1270
+5,intel xeon e3-1270 v2
+5,intel core i7-6850k
+5,intel xeon e5-2609 v4
+5,intel xeon e3-1275
+5,amd athlon xp 2000+
+5,intel core i7-940
+5,intel core i3-8350k
+5,intel core i3-8100
+5,intel core 2 duo e6300
+5,amd phenom ii x4 925
+5,amd athlon x4 730
+5,intel xeon e5-2643
+5,intel xeon e5-2630l v3
+5,amdryzen7_2700
+5,amd sempron 145
+5,amd athlon 64 x2 4800+
+5,amd phenom x4 9650
+5,intel xeon e5-2667 v2
+5,intel core i9-7940x
+5,intel xeon e5-2667
+5,amd phenom x4 9150e
+5,intel core i5-4590s
+5,intel xeon e5-2650l v2
+5,amd ryzen threadripper 1900x
+5,amd athlon ii x2 220
+4,intel core i5-4440s
+4,intel
+4,amd sempron 3000
+4,intel core 2 quad q8400
+4,intel core i5-3330s
+4,intel core i3-370m
+4,intel core i5-3320m
+4,intel core i3-350m
+4,intel core 2 duo e6600
+4,intel core i5-10400f
+4,intel core 2 quad q6700
+4,intel core i5-4200m
+4,intel core 2 quad q9650
+4,intel core i3-4330
+4,intel core i5-4590t
+4,intel core 2 duo e7300
+4,intel core i3-3120m
+4,intel core i3-4170t
+4,intel core i5-3230m
+4,intel core 2 duo t9300
+4,intel core i5-6400t
+4,intel core i3-4330te
+4,intel core 2 duo e6850
+4,intel xeon x7560
+4,intel pentium g4560
+4,amd athlon 64 3200+
+4,intel core i9-9900x
+4,amd athlon ii x3 450
+4,intel xeon e5-2630l
+4,intel pentium e2220
+4,amd opteron 6212
+4,amd athlon 64 x2 5200+
+4,intel xeon e5-2673 v3
+4,intel xeon e5-2673 v4
+4,intel pentium g3240
+4,intel xeon gold 5218
+4,intel xeon e5-2687w v2
+4,intel xeon e5-2687w v4
+4,intel core 2 quad q9450
+4,intel xeon e5-1660 v4
+4,intel core i7-980x
+4,amd fx-9370
+4,amd a6-7400k
+4,intel xeon e5-2698 v3
+4,intel xeon e5620
+4,amd fx-6120
+4,intel xeon e5520
+4,amd athlon x4 740
+4,intel pentium pro
+4,amd athlon 200ge
+4,intel xeon e3-1280
+4,intel xeon e3-1220 v6
+4,amd a8-3800
+4,intel xeon e3-1225 v2
+4,intel xeon e3-1268l v3
+4,intel xeon silver 4110
+4,intel core i7-9700f
+4,amd athlon 64 x2 6000+
+4,amd 386dx
+4,amd ryzen 5 3500x
+4,intel xeon x5550
+4,intel core i7-2640m
+4,amd athlon ii x2 b24
+4,amd a10-5800
+4,intel core i7-3630qm
+4,amd r5 3600
+4,intel xeon x5355
+4,intel core i7-3930k
+4,intel core i7-3970x
+4,intel core i7-4700mq
+4,intel core i7-9700
+4,intel xeon x3370
+4,intel core i7-4785t
+4,intel xeon w3670
+4,intel xeon silver 4112
+4,amd a4-3420
+4,amd phenom ii x2 555
+4,intel xeon e5-2637 v3
+4,amd phenom x3 8400
+4,amd a12-9800
+4,intel core i7-7820x
+4,amd phenom ii x4 960t
+4,intel core i7-4810mq
+4,intel xeon w3690
+4,amd duron
+3,intel xeon e5-2682 v4
+3,intel xeon e5-2658 v3
+3,intel xeon e5-440
+3,intel xeon e5-4610
+3,intel core i5-7400t
+3,intel xeon e5-4627 v2
+3,intel xeon e5-4650 v2
+3,intel xeon x5667
+3,intel xeon x5472
+3,intel xeon w5580
+3,intel xeon w-2123
+3,intel xeon platinum 8156
+3,intel xeon gold 6138
+3,intel core i3-2330m
+3,intel xeon gold 6132
+3,intel xeon gold 6128
+3,intel core i3-2350m
+3,intel xeon e5-2650v4
+3,intel xeon gold 5118
+3,intel xeon e7-4860 v2
+3,intel xeon e5649
+3,intel core i3-3245
+3,intel core i3-380m
+3,intel xeon e5504
+3,intel core i3-4130t
+3,intel xeon e5345
+3,intel xeon e5-2658
+3,intel xeon e5-1603 v4
+3,intel xeon e5-2650l v4
+3,intel core i7-960
+3,intel pentium g4400t
+3,intel core i5-4210m
+3,intel pentium e6600
+3,intel pentium e6500
+3,intel pentium e6300
+3,intel i5 9400t
+3,intel core i9-9980xe
+3,intel core i9-10900k
+3,intel core i7-970
+3,intel core i5-4670s
+3,intel core i5-4690s
+3,intel pentium g4620
+3,intel core i7-8086k
+3,intel core i7-4800mq
+3,intel core i7-4770s
+3,intel core i7-4702mq
+3,intel core i7-3840qm
+3,intel core i7-2860qm
+3,intel core i7-2700k
+3,intel core i7-10700f
+3,intel core i7 i7-10700k
+3,intel core i5-680
+3,intel pentium g4560t
+3,intel pentium g645
+3,intel xeon e5-2643 v4
+3,intel core i5 2300
+3,intel core i3-6098p
+3,intel xeon e5-2603 v4
+3,intel core i3-6100
+3,intel xeon e5-2450l v2
+3,intel xeon e5-2440v2
+3,intel xeon e5-2440
+3,intel xeon e5-2430l
+3,intel xeon e5-1680 v3
+3,intel xeon e5-1660 v3
+3,intel core i5-7600
+3,intel xeon e3-1275 v3
+3,intel pentium g6950
+3,intel xeon e3-1265l v3
+3,intel xeon e3-1240 v3
+3,intel xeon e3-1230 v3
+3,intel xeon e3-1220l
+3,intel xeon 5355
+3,intel xeon 4110
+3,intel pentium p6200
+3,intel core i5-2550k
+3,intel pentium g870
+3,intel pentium g860
+3,intel pentium g4600
+3,amd  fx-4100
+3,intel core i5-4310m
+3,amd athlon 300u
+3,amd fx-8370
+3,amd athlon 64 x2 4200+
+3,amd ryzen series r3-1200 r3-1300x
+3,amd ryzen 9 5950x
+3,amd ryzen 9 3900
+3,intel core 2 duo 6300
+3,amd athlon 64 3000+
+3,amd opteron 2435
+3,intel core 2 duo e6320
+3,amd phenom ii x2 511
+3,amd ryzen 7 3700u
+3,amd am486dx2
+3,amd opteron 6174
+3,amd opteron 6180
+3,intel core 2 duo t5600
+3,amd ryzen 5 3500
+3,amd ryzen 5 2400ge
+3,amd a6-9500e
+3,amd fx-8310
+3,amd fx-8100/fx-8120/fx-8150
+3,amd fx-4350
+3,amd athlon ii 170u
+3,amd e2-3200
+3,amd epyc 7251
+3,amd athlon x2 7550
+3,amd r5 3600x
+3,amd epyc 7351
+3,amd epyc 7351p
+3,amd sempron le-1200
+3,amd athlon x2 3800+
+3,amd athlon x2
+3,amd epyc 7501
+3,amd athlon ii x4 641
+3,amd athlon ii x4 631
+3,amd athlon ii x4 610e
+3,amd athlon ii x3 440
+3,amd athlon ii x2 b26
+3,amd sempron 2500+
+3,amd athlon ii p320
+3,amd a6-6400
+3,amd opteron 6128
+3,amd phenom x3 8450
+3,amd phenom ii x4 810
+3,amd phenom ii x4 970
+3,intel core 2 duo t8300
+3,amd phenom ii x4 b95
+3,amd a10-5800b
+3,amd 7 3700x
+3,amd phenom x4 9500
+3,amd a6-3620
+3,amd phenom ii x4 830
+3,intel core 2 duo t9900
+3,amd phenom ii x6
+3,amd a6-3400m
+3,amd phenom ii x3 b75
+3,intel core 2 duo t7400
+3,amd a12-9800e
+3,amd a6-5350m
+3,amd ryzen
+2,intel xeon e-2124
+2,amd epyc 7502p
+2,intel xeon 6134
+2,amd epyc 7451
+2,amd epyc 7552
+2,amd phenom x4 9600
+2,amd epyc 7551p
+2,intel xeon 6234
+2,intel core i7-4790t
+2,intel xeon 6242
+2,intel xeon 7110m
+2,amd epyc 7401p
+2,amd phenom ii x2 521
+2,intel core i7-4710mq
+2,amd epyc 7352
+2,intel core i7-3820qm
+2,intel xeon e3-1246 v3
+2,intel xeon e3-1245
+2,intel xeon e3-1241 v3
+2,intel xeon e3-1240l v5
+2,intel xeon e3-1240 v6
+2,intel xeon e3-1240
+2,intel xeon e3-1235
+2,intel core i7-3940xm
+2,intel core i7-4765t
+2,amd epyc 7272
+2,intel xeon e3-1226 v3
+2,amd processor
+2,amd epyc 7302
+2,intel core i7-4610m
+2,amd pro a10-7850b
+2,intel xeon 4208
+2,intel core i7-4930mx
+2,amd fx-4200
+2,intel core i7-4940mx
+2,intel i5-9400
+2,intel core i7-860s
+2,amd phenom ii x4 905e
+2,amd opteron 6134
+2,amd opteron 6164
+2,amd opteron 6234
+2,amd opteron 6238
+2,intel i7-2710qe
+2,intel i5-460m
+2,amd phenom ii x4 910
+2,intel core i9-9820x
+2,intel core i9-7960x
+2,intel core i9-7920x
+2,intel core i9 10900k
+2,amd phenom ii 521
+2,intel core i7-875k
+2,amd phenom ii x 6 1055t
+2,intel xeon e3-1265l
+2,amd opteron 4334
+2,intel xeon 3040
+2,intel core i7-5960x
+2,intel xeon 3000dp
+2,amd phenom x 4    9550
+2,intel xeon  e5-1428l v2
+2,amd epyc 7f52
+2,intel core i7-940xm
+2,intel pentium p6100
+2,amd phenom x 4    9100e
+2,amd fx-8140
+2,intel core i7-7740x
+2,intel core i7-620m
+2,intel pentium g5400
+2,intel pentium g3450
+2,intel core i7-6900k
+2,amd phenom ii x4 b97
+2,intel pentium g3420
+2,intel pentium g3260
+2,intel xeon e3-1260l
+2,amd athlon x2 5400+
+2,amd athlon xp 2600+
+2,intel xeon e3-1270 v3
+2,amd a6-3410mx
+2,intel xeon gold 6130
+2,amd a6-5300m
+2,amd a6-5400
+2,amd a6-5400b
+2,intel xeon gold 5115
+2,intel xeon e7-8891v4 sr2sq
+2,intel xeon e7-8891v3 sr225
+2,intel xeon e7-8837
+2,intel xeon e5630
+2,intel xeon e5606
+2,intel xeon e5530
+2,amd a8-3500m
+2,intel xeon e5405
+2,intel xeon e5-5530
+2,intel xeon e5-4669v3
+2,intel xeon e5-4667 v4
+2,intel xeon e5-4660v4
+2,intel xeon e5-4657l v2
+2,intel xeon e5-4650l
+2,intel xeon e5-4620v3
+2,intel xeon e5-4620 v2
+2,intel xeon e5-4620
+2,intel xeon gold 6148
+2,intel xeon gold 6152
+2,intel xeon l5420
+2,intel xeon w-2191b
+2,intel xeon x5672
+2,amd 3950x
+2,amd 486
+2,amd 7702
+2,intel xeon x5260
+2,intel xeon w5590
+2,intel xeon w3680
+2,intel xeon w3530
+2,intel xeon w3503
+2,intel xeon w-2195
+2,intel xeon w-2145
+2,intel xeon l5520
+2,amd a4-3300m
+2,intel xeon silver 4214
+2,amd a4-4000
+2,intel xeon silver 4116
+2,intel xeon q3nw
+2,amd a4-8300
+2,intel xeon platinum 8175m
+2,intel xeon platinum 8158
+2,intel xeon platinum 8156 qs
+2,intel xeon platinum 8124m
+2,intel xeon e5-4610v3
+2,intel xeon e5-4610 v2
+2,intel xeon e5-2699v3
+2,intel xeon e5-2420
+2,intel xeon e5-2630lv4
+2,intel xeon e5-2630l v4
+2,intel xeon e5-2620v3
+2,amd athlon ii x4 651k
+2,intel xeon e5-2618l v4
+2,amd athlon ii x4 950
+2,amd athlon mp 2800+
+2,amd athlon p320
+2,intel xeon e5-2450l
+2,amd athlon x2 4050e
+2,intel xeon e5-1660 v2
+2,amd athlon ii x2 b22
+2,amd athlon x4 830
+2,intel xeon e5-1650
+2,intel xeon e5-1630 v3
+2,intel xeon e5-1620 v4
+2,amd athlon x4 845
+2,amd athlon x4 850
+2,intel xeon e5-1607 v4
+2,intel xeon e3-1280v3
+2,intel xeon e3-1275l v3
+2,intel xeon e3-1275 v2
+2,amd athlon ii x3 445
+2,amd athlon ii x2 255
+2,intel xeon e5-2699 v4 es
+2,amd athlon 64 x2 5600+
+2,amd athlon 3000g
+2,intel xeon e5-2696v2
+2,amd athlon 64 3100+
+2,intel xeon e5-2689
+2,intel xeon e5-2687w v3
+2,intel xeon e5-2686 v4
+2,amd athlon 64 6000+
+2,intel xeon e5-2680v4
+2,amd athlon 64 x2 4000+
+2,intel xeon e5-2667 v4
+2,amd athlon 64 x2 6400+
+2,amd athlon ii x 2 b24
+2,amd athlon 64 x2 ad05000iaa5d0
+2,intel xeon e5-2660v2
+2,amd athlon cpu 2000
+2,intel xeon e5-2658 v2
+2,intel xeon e5-2651 v2
+2,intel xeon e5-2650v2
+2,intel xeon e5-2650l v3
+2,intel xeon e5-2650l
+2,amd athlon ii p340
+2,amd athlon ii x 2 240
+2,amd r5 3500x
+2,intel core 2 quad q9400s
+2,amd ryzen 3 3200ge
+2,intel core i5-8400t
+2,amd ryzen 5 3600xt
+2,intel core i7-2620m
+2,amd ryzen 3950x
+2,intel core i5-450m
+2,intel core 2 duo t7200
+2,intel core i3-3250
+2,intel core i5-10400
+2,intel core duo t2050
+2,intel core i5-10500
+2,intel core i5-2405s
+2,intel core i5-7640x
+2,intel core i7-10700k
+2,amd ryzen 3600x
+2,intel core i5-8600t
+2,intel core 2 e7500
+2,intel core e5-1607
+2,intel core i5-3550s
+2,amd ryzen 7 3800xt
+2,amd sempron 3100
+2,intel core 2 extreme qx6850
+2,intel core i7 820qm
+2,intel core i5-3475s
+2,intel core 2 extreme x6800
+2,intel core i3-9100t
+2,intel core i3-8100t
+2,intel core i3-2120m
+2,amd ryzen 5 pro 4650g
+2,amd sempron le-1250
+2,intel core 2 extreme qx9650
+2,intel core 2 duo t7500
+2,amd r7 2700x
+2,intel core i5-3340m
+2,intel core 2 duo p8400
+2,intel core 2 quad q9500
+2,intel core i5 2320
+2,intel core duo
+2,amd ryzen threadripper 2920x
+2,intel core i7-3520m
+2,intel core i3-4360
+2,intel core i7-2960xm
+2,intel core i7-3720qm
+2,intel core i5-3210m
+2,intel core i3-2350
+2,intel core 2 duo p9600
+2,intel core i5-3450s
+2,intel core i5-5675c
+2,intel core i7-2670qm
+2,intel core i5-2540m
+2,amd sempron 2100
+2,intel core i5 2310
+2,intel core i5-3340
+1,amd athlon 64 x2 5400+
+1,intel xeon e5-2680rv4
+1,amd athlon 64 le-1600
+1,intel core i5 2450m
+1,amd athlon 64 tf-20
+1,intel xeon e5-2678 v3
+1,amd athlon 64 x 2
+1,amd athlon 64 x 2 4400+
+1,amd athlon 64 x2 3600+
+1,intel xeon e5-2667v3
+1,intel xeon e5-2678
+1,amd athlon 64 x2 5000b
+1,intel xeon e5-2676v3
+1,amd athlon 64 x2 5000+
+1,intel  i7-8700t
+1,amd athlon 64 x2 5000
+1,intel xeon e5-2673 v2
+1,intel core i7-3740qm
+1,intel xeon e5-2689 v4
+1,intel core 2 duo 4300
+1,amd am486sx2
+1,amd athlon 3500+
+1,intel core i3-6100te
+1,intel xeon e5-2697a v4
+1,intel core 2 duo 6400
+1,amd athlon 1200
+1,intel xeon e5-2698b v3
+1,amd athlon 1100
+1,intel core 2 duo e6700
+1,amd athlon 64 4000+
+1,intel xeon e5-2699c v4
+1,intel core 2 duo e8300
+1,amd am486dx4
+1,intel core 2 duo e8435
+1,intel core 2 duo p7350
+1,intel core i3-480m
+1,intel core 2 duo p8700
+1,amd athlon 4200+
+1,intel core 2 duo 6320
+1,intel xeon e5-2696 v4
+1,amd athlon 5350
+1,amd athlon 64 3800
+1,amd athlon 64 3700+
+1,amd athlon 64 3700
+1,intel core 2 duo 4400
+1,amd athlon 64 3400+
+1,intel core i3-7350k
+1,intel xeon e5-2666 v4
+1,amd athlon 64 3400
+1,intel core i3-7100t
+1,intel core i3-6320
+1,amd athlon 64 2850e
+1,intel xeon e5-2690v2
+1,intel xeon e5-2690v4
+1,amd athlon 64 2650e
+1,amd athlon 64 1640b
+1,intel core i5 2500
+1,intel core i5 560m
+1,intel core i5 3210m
+1,intel core i5-2430m
+1,intel xeon e5-2618l v3
+1,amd-x4-615e
+1,intel xeon e5-2618lv4
+1,amd athlon ii x4 740
+1,amd athlon ii x4 730
+1,amd-x4-640
+1,amd athlon ii x4 650
+1,intel xeon e5-2628l v4
+1,intel core i5 3230m
+1,amd athlon ii x4 638
+1,amd-x4-730
+1,amd athlon ii x4 615e
+1,amd-x4-750x
+1,intel xeon e5-2630 v4 es
+1,amd athlon ii x4 600e
+1,intel xeon e5-2630l v2
+1,amd athlon ii x4 830
+1,amd athlon ii x4 850
+1,intel core i5-2500s
+1,amd athlon mp 2400
+1,intel xeon e5-2428l
+1,amd athlon x2 5000+
+1,intel xeon e5-2430 v2
+1,amd athlon x2 4600+
+1,intel xeon e5-2430l v2
+1,amd athlon x2 4450e
+1,amd athlon x2 4450b
+1,amd-fx-770k
+1,amd-fx-8370
+1,amd athlon x2 4000+
+1,amd athlon x2 370k
+1,amd athlon x2 3600+
+1,amd athlon x2 340
+1,amd-fx-870k
+1,amd-k6
+1,amd athlon ii x3 460
+1,intel core i5-2390t
+1,amda10-8750
+1,intel core i5-10500t
+1,intel core i5 9400f
+1,amd athlon ii m320
+1,intel xeon e5-4627v3
+1,intel core i5 52oou
+1,intel core i5 520m
+1,amd athlon ii 160u
+1,intel xeon e5-2650v4 es
+1,intel core i5 480m
+1,amd athlon fx 74
+1,intel core i5 4590t
+1,intel core i5 450m
+1,amd athlon 800
+1,amd athlon 64 x2 tk-57
+1,amd athlon 64 x2 ql-64
+1,amd athlon 64 x2 ql-62
+1,intel  i7-8700k
+1,intel xeon e5-2648l v2
+1,intel xeon e5-2630v3
+1,amd athlon ii x 3 425
+1,intel xeon e5-2637
+1,amd athlon ii x3 455
+1,amdr9-5900x
+1,intel  i7-8700
+1,intel xeon e5-2637v4
+1,amd athlon ii x3 425
+1,intel xeon e5-2640 v1
+1,amd athlon ii x2 b28
+1,intel core i5-2100
+1,intel core i5-10600kf
+1,intel xeon e5-2640v3
+1,intel xeon e5-2640v4
+1,intel core i5-10600k
+1,amd athlon ii x2 250u
+1,amd athlon ii x 4 640
+1,amd a8-6600
+1,intel core i3-4150t
+1,intel xeon e5-4640 v2
+1,intel core i3-10100
+1,intel core i3-2105
+1,intel xeon silver 4215r
+1,intel xeon w-2102
+1,intel xeon w-2104
+1,amd a4-3320m
+1,intel xeon w-2135
+1,intel core 2 extreme qx9770
+1,intel xeon w-2170b
+1,amd a4-5300b
+1,intel xeon w-2175
+1,intel core i3 3220t
+1,intel core i3
+1,intel xeon w-2223
+1,intel xeon w-2275
+1,intel xeon w-3223
+1,intel xeon w3520
+1,amd a4-4300m
+1,amd a4-6320
+1,intel xeon e5-4640 v4
+1,intel xeon platinum 8156 sr3av
+1,intel xeon phi 7210
+1,intel xeon platinum
+1,intel core 2 duo t9800
+1,intel xeon platinum 8124m qs
+1,intel xeon platinum 8153 qs
+1,amd a6 5300m
+1,intel core i3-2330e
+1,intel core i3-2330
+1,intel xeon silver 4109t
+1,intel xeon platinum 8160
+1,intel xeon platinum 8173m
+1,intel xeon platinum 8176
+1,intel xeon platinum 8176 es ql1f
+1,intel core 2 e8600
+1,intel xeon platinum 8260
+1,intel xeon platinum sr3b0
+1,intel core duo t2600
+1,intel xeon w3550
+1,intel xeon w3565
+1,amd 486dx4
+1,intel xeon x5482
+1,intel xeon x5492
+1,intel xeon x5500
+1,intel core 2 quad q8200s
+1,amd 6320
+1,intel xeon x5620
+1,amd 5 s1600
+1,intel core 2 quad q8400s
+1,amd a12-8800e
+1,intel core 2 quad q9505
+1,amd 3600x
+1,amd 3300x
+1,amd 2200
+1,amd 200ge
+1,amd 1400
+1,intel xeon x7550
+1,intel core 2 extreme x7900
+1,intel xeon x5470
+1,amd a10-5750m
+1,intel xeon x5450
+1,intel core duo t2300
+1,amd a10-9700e
+1,amd a10-8750
+1,intel xeon x 5670
+1,intel xeon x3230
+1,intel xeon x3330
+1,intel xeon x3363
+1,amd a10-7890k
+1,amd a10-6800b
+1,intel xeon x3440
+1,amd a10-6800
+1,intel xeon x3460
+1,intel xeon x3470
+1,intel core cpu i3-380m
+1,intel xeon x5365
+1,intel xeon model
+1,intel xeon lc5528
+1,intel xeon lc3518
+1,intel core 2 duo t6400
+1,amd a8-3820
+1,intel core 2 duo t5750
+1,intel xeon e5430
+1,amd a8-3520m
+1,intel xeon e5472
+1,intel xeon e5502
+1,intel xeon e5503
+1,intel xeon e5506
+1,intel core i3-390m
+1,amd a8 5600
+1,intel core i3-4100m
+1,intel xeon e5540
+1,intel xeon e5600
+1,intel xeon e5603
+1,intel core i3-4000m
+1,amd a8 3500m
+1,intel xeon e5320
+1,intel xeon e5160
+1,intel xeon e5-649
+1,amd a8-3870
+1,intel xeon e5-4640v3
+1,amd a8-5600
+1,amd a8-5500b
+1,intel xeon e5-4650v3
+1,intel xeon e5-4655 v4
+1,intel core 2 duo p9700
+1,intel xeon e5-4657lv2
+1,intel xeon e5-4660v3
+1,intel core 2 duo t5270
+1,intel core 2 duo t5500
+1,intel xeon e5-4669 v4
+1,amd-a8-3870
+1,intel xeon e5-540
+1,intel core 2 duo t5670
+1,amd a8-4500m
+1,intel xeon e5628
+1,intel core 2 duo t6500
+1,intel core i3-2348m
+1,intel core i3-3110m
+1,intel core i3-3210
+1,intel xeon gold 6134
+1,amd a6-3420m
+1,intel xeon gold 6140
+1,intel core i3-3120me
+1,intel core 2 duo t8100
+1,intel xeon gold 6150
+1,intel xeon gold 6226r
+1,amd a6-8500
+1,intel xeon gold 6230
+1,intel xeon gold 6242
+1,intel xeon gold 6246
+1,intel xeon i5-750
+1,intel core i3-2370m
+1,intel xeon l5430
+1,intel xeon l5630
+1,intel xeon gold 6130h
+1,intel core 2 duo t7800
+1,intel core 2 duo t7300
+1,intel core i3-3240t
+1,amd a6-7400
+1,intel xeon e7-4820v3
+1,intel xeon e7-4860
+1,intel core 2 duo t6600
+1,intel core 2 duo t7100
+1,intel xeon e7-8860
+1,intel xeon e7-8870
+1,intel xeon e7-8870v2
+1,intel xeon e7-8880 v3
+1,intel core i3-330m
+1,intel core i3-32xx
+1,intel xeon e7-8895 v2
+1,intel xeon e7310
+1,intel xeon e7450
+1,intel xeon gold 5117 sr37s
+1,amd athlon x2 5200
+1,intel xeon e5-1630v4
+1,intel xeon e5-2407 v2
+1,intel i5-580m
+1,intel i5-10600k
+1,intel i5-2500
+1,intel i5-3320m
+1,amd ryzen 5 pro 1500
+1,intel i5-480m
+1,intel i5-520m
+1,intel i5-540m
+1,intel i5-6402p
+1,amd opteron 6320
+1,intel core i5-7700
+1,intel i7
+1,intel i7 10900t
+1,intel i7 2600s
+1,intel i7-10700k
+1,intel i7-10700kf
+1,intel i7-4900mq
+1,intel i5-10400
+1,intel i5 2550k
+1,intel i7-940xm
+1,amd opteron 6376
+1,intel core i9-7900x 
+1,amd ryzen 5 3400ge
+1,amd opteron 8220
+1,amd opteron 8216
+1,intel core i9-9900
+1,amd opteron 6380
+1,intel core i9-9900ks
+1,amd opteron 6344
+1,intel i5 2500
+1,intel i3-3110m
+1,intel i3-3130m
+1,intel i3-3240
+1,intel i3-4000m
+1,intel i3-4130t
+1,intel i5
+1,intel i5 2400s
+1,intel i7-870
+1,amd opteron 6276
+1,amd-a8
+1,amd ryzen thread ripper 3970x
+1,amd opteron 252
+1,intel pentium g3250t
+1,amd ryzen 7 pro 4750g
+1,intel core i5-670
+1,intel pentium g3260t
+1,intel core i5-661
+1,intel pentium g3430
+1,amd opteron 2419
+1,amd opteron 4226
+1,amd opteron 2389
+1,amd opteron 2356
+1,amd opteron 2220
+1,amd opteron 2218
+1,amd opteron 2216
+1,intel core i5-655k
+1,amd opteron 2214
+1,amd opteron 270
+1,intel pentium g2140
+1,amd opteron 6275
+1,amd opteron 6172
+1,amd ryzen 5 pro 2400g
+1,amd ryzen 5 pro 3400ge
+1,amd opteron 6220
+1,intel pentium e4500
+1,amd opteron 6200
+1,intel core i5-750s
+1,intel pentium e5500
+1,amd ryzen 5900x
+1,amd opteron 4284
+1,amd opteron 6140
+1,amd opteron 6136
+1,amd ryzen 7
+1,intel pentium e6700
+1,intel pentium e6800
+1,amd opteron 4386
+1,amd ryzen 7 4800h
+1,amd opteron 8354
+1,intel core i9-11900k
+1,intel core i9-10900x
+1,amd ryzen 3 2200ge
+1,intel core i7-4800
+1,amd phenom x3
+1,amd phenom x2 511
+1,amd phenom x 4    9850
+1,intel core i7-4900mq
+1,intel core i7-4910mq
+1,amd phenom x 4    9750
+1,amd phenom x 4    9500
+1,amd phenom x3 8550
+1,amd phenom x 4    9150e
+1,amd ryzen 3 3300x
+1,amd ryzen 3 pro 4350g
+1,intel core i7-10700kf
+1,intel core i7-640m
+1,amd phenom x 3    8750b
+1,amd phenom x 3    8650
+1,amd rayzen 7 3800x
+1,amd phenom x3 8750b
+1,amd opteron 850
+1,amd r7 2700
+1,intel core i7-3632qm
+1,amd r5 2600x
+1,intel core i7-3770t
+1,amd r5 2600
+1,intel core i7-3632mq
+1,amd r5 1600x
+1,amd r5 1500x
+1,amd r3 3100
+1,amd phenom x4
+1,intel core i7-3612qm
+1,intel core i7-3610qm
+1,intel core i7-3540m
+1,amd phenom x4-9550
+1,amd phenom x4 9600b
+1,intel core i7-2760qm
+1,amd phenom x4 9100e
+1,amd phenom ii x6-1055t
+1,amd phenom ii x6 1065t
+1,intel core i7-10700
+1,intel core i5-9400f
+1,amd phenom ii x2 b59
+1,amd phenom ii x2 565
+1,amd phenom ii x2 560
+1,intel core i7-965
+1,amd phenom ii x2 545
+1,intel core i5-9500t
+1,intel core i5-9500
+1,amd phenom ii x 4 955
+1,amd ryzen 3700x
+1,intel core i7-9700t
+1,amd phenom ii x 4 945
+1,intel core i7-980
+1,intel core i5-9400
+1,amd opteron 875
+1,intel core i9-10900
+1,intel core i9-10900f
+1,amd phenom ii x3 740
+1,intel core i5  sro 4w
+1,amd phenom ii x4 805
+1,intel core i7 3612qm
+1,amd phenom ii x4 980
+1,intel core i7 9700f
+1,amd phenom ii x4 9650
+1,intel core i7-7700t
+1,intel core i7 9700
+1,amd phenom ii x4 940
+1,amd phenom ii x4 920
+1,amd phenom ii x4 910e
+1,intel core i7-840qm
+1,intel core i7 840qm
+1,intel core i7 740qm
+1,amd phenom ii x4 850
+1,intel core i7 3720qm
+1,intel core i7 3630qm
+1,intel core i7-870s
+1,intel pentium g620t
+1,amd opteron 1385
+1,intel pentium g630t
+1,amd athlon xp 2400+
+1,amd athlon xp 3200+
+1,amd athlon xp 2800+
+1,intel xeon e3-1265lv3
+1,amd x4-910
+1,amd athlon xp 2500+
+1,amd athlon xp 2500
+1,intel core i5-3510m
+1,intel xeon e3-1270 v6
+1,amd x4-870k
+1,intel xeon e3-1270v2
+1,amd athlon xp 2200+
+1,amd athlon xp 2100+
+1,amd athlon xp 1800+
+1,intel xeon e3-1275 v5
+1,intel core i5-3470t
+1,intel xeon e3-1275lv3
+1,intel xeon e3-1260l v5
+1,amd x4-805
+1,intel core i5-430m
+1,intel xeon e3-1240v2
+1,amd dx4-100
+1,amd duron 800
+1,amd duron 700
+1,amd sempron m120
+1,intel xeon e3-1240l v3
+1,amd turion  ii m600
+1,intel xeon e3-1240lv5
+1,intel xeon e3-1240v3
+1,intel xeon e3-1245v5
+1,intel core i5-4130m
+1,intel core i5-3570s
+1,intel xeon e3-1245 v2
+1,intel xeon e3-1245 v3
+1,intel xeon e3-1245 v5
+1,intel xeon e3-1245 v6
+1,intel xeon e3-1245v2
+1,intel xeon e3-1276 v3
+1,amd athlon xp 1700+
+1,intel xeon e3-1280 v2
+1,amd-a10-8770
+1,amd x4-b97
+1,intel xeon e5-1607v3
+1,amd athlon x4 880k
+1,intel core i5-3450m
+1,amd-a10-8750b
+1,intel core i5-3380m
+1,intel core i5-3360m
+1,amd athlon x4 750
+1,amd x4-b95
+1,intel xeon e5-1660
+1,amd athlon x2 64
+1,amd athlon x2 5600+
+1,intel xeon e5-1680 v2
+1,amd athlon x2 5400b
+1,intel xeon e5-1680 v4
+1,intel xeon e5-2403
+1,intel xeon e5-1607 v3
+1,intel xeon e5-1607 v2
+1,intel xeon e5-1607
+1,amd athlon x4 950
+1,intel xeon e3-1285l v3
+1,intel xeon e3-1285l v4
+1,intel xeon e3-1290
+1,intel xeon e3-1290 v2
+1,intel xeon e3120
+1,intel xeon e5
+1,intel xeon e5 1603
+1,intel xeon e5 2620 v3
+1,intel xeon e5 2637 v4
+1,intel xeon e5 2637 v4 es
+1,intel xeon e5 v3
+1,intel xeon e5-1410v2
+1,intel xeon e5-1600
+1,amd athlon xp 1600+
+1,intel xeon e5-1603 v3
+1,intel core i5-4300m
+1,amd -k6-2
+1,intel pentium g640
+1,intel xeon 4116
+1,intel xeon 2700mp
+1,intel xeon 2800dp
+1,amd sempron 2400+
+1,intel core i5-480m
+1,intel xeon 3106
+1,amd epyc 7742
+1,intel xeon 4114
+1,amd sempron 2500
+1,intel xeon  e7-4880 v2
+1,intel xeon 4208r
+1,intel core 2 quad q9450s
+1,intel xeon 5060
+1,intel xeon 5113
+1,intel xeon 5130
+1,intel xeon 5130 dual core
+1,intel xeon 5140 dual core
+1,intel xeon  x5560
+1,intel xeon  e5-2680 v2
+1,intel xeon e3-1230l v3
+1,amd fx-6330
+1,amd k6-ii
+1,intel core i5-6500te
+1,amd fx-8350.
+1,amd ryzen threadripper 2950x
+1,amd ryzen threadripper 2990wx
+1,intel pentium gold
+1,amd fx-770k
+1,intel pentium m 725
+1,intel xeon  e5-2430l
+1,intel pentium m 750
+1,intel pentium m 760
+1,intel pentium m750
+1,amd sempron 2200
+1,intel pentium p6300
+1,intel core i5-560m
+1,amd sempron 2300+
+1,intel xeon 5150
+1,amd epyc 7702
+1,amd epyc 7662
+1,amd sempron le-1300
+1,intel core i5-4570te
+1,amd sempron 64 le-1150
+1,amd sempron 64 le-1250
+1,amd sempron 64 le-1300
+1,intel xeon e3-1220l v2
+1,intel xeon e3-1220l v3
+1,intel xeon e3-1220v2
+1,intel core i5-4430s
+1,intel xeon 5500
+1,amd epyc 7282
+1,intel xeon e3-1225 v5
+1,amd sempron m100
+1,amd epyc 7281
+1,intel core i5-4350t
+1,intel core i5-4330m
+1,amd epyc
+1,amd sempron 64 3400+
+1,intel xeon e-2224g
+1,intel xeon e-2224
+1,intel xeon e-2176g
+1,intel xeon 6130t
+1,amd sempron 2600+
+1,amd sempron 2650
+1,amd sempron 2800+
+1,amd sempron 3100+
+1,intel xeon 7140m
+1,intel xeon 8160
+1,intel xeon 8170
+1,intel xeon 8274
+1,intel xeon 8280m
+1,intel xeon e 2176g
+1,amd sempron 3200+
+1,intel xeon e-2126g
+1,intel xeon e-2144g
+1,intel xeon e-2146g
+1,intel xeon 4210
