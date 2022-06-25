@@ -15,5 +15,6 @@
 ## HW5
 * 此為Project, 題目自訂
 * 我的題目為 : Secondhand CPU Processor Price collection
-* 從Ebay上抓取各種二手CPU的銷售價格, 丟棄不全的資料並加以整理. 提供UI來查詢指定的CPU在近期的各個售價, 並以圖表的方式呈現
+* 從Ebay上抓取各種二手CPU的銷售價格, 丟棄不全的資料並加以整理. 提供UI來查詢指定的CPU在近期的各個售價, 並以圖表的方式呈現.
+* Report中有更詳細的內容
 
