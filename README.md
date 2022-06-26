@@ -1,4 +1,4 @@
-# 在GMU時的作業
+# 在GMU時的Homework Project
 ## Artificial Intelligence - Advanced
 有4個作業
 ## Artificial Intelligence
