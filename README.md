@@ -8,5 +8,5 @@
 ## Machine Learning
 有1個Project, 包含小essay
 ## Software Engineering for WWW
-有四個Homework Project
+有四個Homework Projects
 
