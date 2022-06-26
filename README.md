@@ -1,12 +1,12 @@
-# 在GMU時的Homework Project
+# 在GMU時的Homework Projects
 ## Artificial Intelligence - Advanced
-有4個作業
+有4個Homework Projects
 ## Artificial Intelligence
-有6個作業
+有6個Homework Projects
 ## Data Mining 
-有5個作業
+有5個Homework Projects
 ## Machine Learning
-一份Project, 有小essay
+有1個Project, 包含小essay
 ## Software Engineering for WWW
-有四個作業
+有四個Homework Project
 
