@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Survey</title>
+
+        <!-- css for greeting-->
+        <link rel="stylesheet" type = "text/css" href="greeting-style.css">
+        <!-- jquery for greeting -->
+        <script src="jquery-3.6.0.js"></script>
+        <!-- js for greeting -->
+        <script src="js-greeting.js"></script>
+    </head>
+    <body onload="Greeting()" >
+
+
+        <!-- Greeting Dialog -->
+        <div id="greeting" class="greeting">
+
+            <!-- Greeting Dialog content -->
+            <div class="greeting-content">
+                <!-- Close(X) button -->
+                <span class="close" id="close">&times;</span>
+                <!-- Greeting content-->
+                <p id ="greeting-text"></p>
+                <!-- hyperlink -->
+                <a href = "javascript:wrongPerson()" id="hyperlink" style="display: none;">123</a>
+            </div>
+
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Survey</title>
+
+        <link rel="stylesheet" type = "text/css" href="survey-style.css">
+        <!-- jquery for greeting -->
+        <script src="jquery-3.6.0.js"></script>
+        <script>
+            function dataProcess(){
+                var nums = checkInput();
+                compute(nums);
+            }
+            function checkInput(){
+                //get input and trim the space
+                var input = $("#data").val().trim();
+                //split by comma
+                var nums = input.split(',');
+                var intnums = [];
+                //check whether a comma left at the end
+                if (input[input.length-1] == ','){
+                    $("#check").text("A comma left at the end.");
+                    $("#check").css("color", "red");
+                    return;
+                }
+                //check at least 10 numbers
+                if ( nums.length < 10 ){
+                    $("#check").text("Please input at least 10 numbers.");
+                    $("#check").css("color", "red");
+                    return;
+                }
+                //chekc inputs are only numbers
+                for (let i = 0 ; i < nums.length ; i ++){
+                    let temp = nums[i].trim();
+                    if ( isNum(temp) ){
+                        intnums[i] = parseInt(temp);
+                    }else{
+                        $("#check").text("Please input numbers and comma only.");
+                        $("#check").css("color", "red");
+                        return;
+                    }
+                }
+                //check range from 1 to 100
+                for (let i = 0 ; i < intnums.length ; i ++){
+                    if ( intnums[i] > 100 || intnums[i] < 1 ){
+                        $("#check").text("Please input Numbers ranging from 1 to 100.");
+                        $("#check").css("color", "red");
+                        return;
+                    }
+                }
+                $("#check").text("Validation.");
+                $("#check").css("color", "blue");
+                return intnums;
+            }
+            function compute(nums){
+                let sum = 0;
+                for (let i = 0 ; i < nums.length ; i ++){
+                    sum += nums[i];
+                }
+                var max = Math.max.apply(null, nums);
+                const average = (array) => array.reduce((a, b) => a + b) / array.length;
+                var avg = average(nums);
+                $("#maximum").text(max);
+                $("#average").text(avg);
+
+            }
+
+            function isNum(val){
+                return !isNaN(val)
+            }
+
+        </script>
+    </head>
+    <body>
+
+        <div class="heading">
+            <h1>Survey Form</h1>
+        </div>
+
+        <div class="form">
+            <strong>All fields marked with <span class = "star">*</span> are required.</strong>
+            <form method = "post " action="" autocomplete = "on">
+                <h3 id="Name">Data</h3>
+                <p>
+                    <label for="fname">Enter ten comma separated numbers ranging from 1 through 100<span class = "star"> *</span></label>
+                    <br><br>
+                    <input type="text" id="data" name="data"  onblur="dataProcess()" placeholder="1,2,3,4,5,6,7,8,9,10" required>
+                    &nbsp;
+                    <label id = "check" style="color:red"></label>
+                    <br><br>
+                    <label>Average :  <span id = "average" style="color: blue;"></span></label>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <label>Maximum :  <span id = "maximum" style="color: blue;"></span></label>
+                </p>
+                
+
+            </form>
+        </div>
+    </body>
+</html>

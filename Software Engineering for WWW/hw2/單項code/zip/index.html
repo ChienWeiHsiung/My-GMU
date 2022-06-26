@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Survey</title>
+
+        <link rel="stylesheet" type = "text/css" href="survey-style.css">
+
+        <script src="js-zip.js"></script>
+
+        <!-- jquery for validation -->
+        <script src="jquery-3.6.0.js"></script>
+        
+    </head>
+    <body>
+
+
+        <div class="heading">
+            <h1>Survey Form</h1>
+        </div>
+
+        <div class="form">
+            <strong>All fields marked with <span class = "star">*</span> are required.</strong>
+            <form method = "post " action="" autocomplete = "on">
+
+                <h3 id="Address">Address</h3>
+                <p>
+                    <label for="Street">Street Address <span class = "star">*</span> : </label>
+                    <input type="text" id="Street" name="Street" required>
+                    <br><br>
+                    <label id="City" for="City">City : </label>
+                    <br><br>
+                    <label id="State" for="State">State : </label>
+                    <br><br>
+                    <label for="Zip">Zip <span class = "star">*</span> : </label>
+                    <input type="text" id="Zip" name="Zip" onblur="zipcode()" required>
+                    &nbsp;
+                    <label id="status"></label>
+                    <br>
+                </p>
+
+            </form>
+        </div>
+    </body>
+</html>

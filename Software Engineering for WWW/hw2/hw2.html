@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Survey Form ( Hsiung )</title>
+
+        <link rel="stylesheet" type = "text/css" href="./css/survey-style.css">
+
+        <!-- jquery -->
+        <script src="./javascript/jquery.js"></script>
+        <!-- jquery-ui  -->
+        <script src="./javascript/jquery-ui.js"></script>
+        <link rel="stylesheet" type = "text/css" href="./css/jquery-ui.css">
+
+        <!-- js for greeting -->
+        <script src="./javascript/js-greeting.js"></script>
+        <!-- js for max/average -->
+        <script src="./javascript/js-computation.js"></script>
+        <!-- js for validation -->
+        <script src="./javascript/js-validation.js"></script>
+        <link rel="stylesheet" type = "text/css" href="./css/validation-style.css">
+        <!-- js for zipcode -->
+        <script src="./javascript/js-zip.js"></script>
+        
+    </head>
+    <body onload="Greeting()">
+
+        <!-- Greeting Dialog -->
+        <div id="greeting" class="greeting">
+
+            <!-- Greeting Dialog content -->
+            <div class="greeting-content">
+                <!-- Close(X) button -->
+                <span class="close" id="close">&times;</span>
+                <!-- Greeting content-->
+                <p id ="greeting-text"></p>
+                <!-- hyperlink -->
+                <a href = "javascript:wrongPerson()" id="hyperlink" style="display: none;">123</a>
+            </div>
+
+        </div>
+
+        <!-- Validation Dialog -->
+        <div id="dialog" title="Basic dialog">
+            <p id="dialog-text"></p>
+        </div>
+
+        <ul class = "float">
+            <li><a href="#Name">Name</a></li>
+            <li><a href="#Address">Address</a></li>
+            <li><a href="#Contact">Contact</a></li>
+            <li><a href="#Q1">Q1</a></li>
+            <li><a href="#Q2">Q2</a></li>
+            <li><a href="#Comments">Comments</a></li>
+            <li><a href="#Q3">Q3</a></li>
+            <li><a href="#Rating">Rating</a></li>
+            <li><a href="#Computation">Computation</a></li>
+            <li><a href="#simplifiedSite">Simplified site</a></li>
+        </ul>
+
+        <p class="logo">
+            <a href = "https://www.gmu.edu/" target="_blank">
+              <img src = "logo.jpg" alt = "GMu HomePage"  >
+            </a>
+        </p>
+
+        <div class="heading">
+            <h1>Survey Form</h1>
+        </div>
+
+        <!-- name -->
+        <div class="name">
+            <p>Chien Wei, Hsiung</p>
+        </div>
+
+        <div class="form">
+            <strong>All fields marked with <span class = "star">*</span> are required.</strong>
+            <form method = "post " action="" id = "survey" autocomplete = "on" onsubmit="return validation()">
+                <h3 id="Name">User Name</h3>
+                <p>
+                    <label for="fname">First name <span class = "star">*</span> : </label>
+                    <input type="text" id="fname" name="fname" autofocus>
+                    &nbsp;&nbsp;&nbsp;
+                    <label for="lname">Last name <span class = "star">*</span> : </label>
+                    <input type="text" id="lname" name="lname"><br>
+                </p>
+
+                <h3 id="Address">Address</h3>
+                <p>
+                    <label for="Street">Street Address <span class = "star">*</span> : </label>
+                    <input type="text" id="Street" name="Street">
+                    <br><br>
+                    <label id="City" for="City">City : </label>
+                    <br><br>
+                    <label id="State" for="State">State : </label>
+                    <br><br>
+                    <label for="zip">ZipCode <span class = "star">*</span> : </label>
+                    <input type="text" id="Zip" name="Zip" onblur="zipcode()">
+                    &nbsp;
+                    <label id="status"></label>
+                    <br>
+                </p>
+
+                <h3 id="Contact">Other Contact Information</h3>
+                <p>
+                    <label for="Phone">Phone : </label>
+                    <input type="tel" id="Phone" name="Phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="123-456-7890">
+                    <br><br>
+                    <label for="Email">Email <span class = "star">*</span> : </label>
+                    <input type="text" id="Email" name="Email"  placeholder="xxx@domain.com">
+                    <br><br>
+                    <label for="URL">URL : </label>
+                    <input type="url" id="URL" name="URL" pattern="https://.*" placeholder="https://example.com">
+                    <br><br>
+                    <label for="Date">Date : </label>
+                    <input type="date" id="Date" name="Date">
+                    <br>
+                </p>
+                <h3 id="Q1">Which one did you like the most  </h3>
+                <p>
+                    <span class = "star">*</span>&nbsp;
+                    <input name="ask" type="checkbox" id="Students" value="Students">
+                    <label for="Students"> Students</label>
+                    <input name="ask" type="checkbox" id="Location" value="Location">
+                    <label for="Location"> Location</label>
+                    <input name="ask" type="checkbox" id="Campus" value="Campus">
+                    <label for="Campus"> Campus</label>
+                    <input name="ask" type="checkbox" id="Atmosphere" value="Atmosphere">
+                    <label for="Atmosphere"> Atmosphere</label>
+                    <input name="ask" type="checkbox" id="Dorm" value="Dorm">
+                    <label for="Dorm"> Dorm rooms</label>
+                    <input name="ask" type="checkbox" id="Sports" value="Sports">
+                    <label for="Sports"> Sports</label>
+                </p>
+
+                <h3 id="Q2">How did you become interested in the university</h3>
+                <p>
+                    <span class = "star">*</span>&nbsp;
+                    <input name="ask2" type="radio" id="Friends" value="Friends">
+                    <label for="Friends">Friends</label>
+                    <input name="ask2" type="radio" id="Television" value="Television">
+                    <label for="Television">Television</label>
+                    <input name="ask2" type="radio" id="Internet" value="Internet">
+                    <label for="Internet">Internet</label>
+                    <input name="ask2" type="radio" id="Other" value="Other">
+                    <label for="Other">Other</label>
+                </p>
+
+                <h3 id="Comments">Additional Comments</h3>
+                <p>
+                    <!-- <label for="Comments">Additional Comments :</label><br> -->
+                    <textarea id="Comments" name="Comments" rows="6" cols="80" placeholder="Write down anything you want to say here"></textarea>
+                </p>
+                <h3 id="Q3">High School Graduation Month</h3>
+                <p>
+                    <!-- <label for="Month">Choose your browser from the list:</label> -->
+                    <label for = "monthlist">Month : </label>
+                    <input type = "text" list="month" id="monthlist" placeholder="Select a month" >
+                    <datalist id="month">
+                        <option value="January">
+                        <option value="February">
+                        <option value="March">
+                        <option value="April">
+                        <option value="May">
+                        <option value="June">
+                        <option value="July">
+                        <option value="August">
+                        <option value="September">
+                        <option value="October">
+                        <option value="November">
+                        <option value="December">
+                    </datalist>
+                    &nbsp;&nbsp;&nbsp;
+                    <label for = "year">Year : </label>
+                    <input type = "text" id="year" placeholder="Input a year">
+                </p>
+
+                <h3 id="Rating">Likelihood of you recommending this school to other prospective students</h3>
+                <p>
+                    <label for="rating">Rating : </label>
+                    <select name="rating" id="rating">
+                        <option disabled selected value> select an option </option>
+                        <option>Very Likely</option>
+                        <option>Likely</option>
+                        <option>Unlikely.</option>
+                    </select>
+                </p>
+                <br>
+                <h3 id="Computation">Data &#8212 Average & Maximum Computation</h3>
+                <p>
+                    <label for="fname">Enter ten comma separated numbers ranging from 1 through 100</label>
+                    <br><br>
+                    <label for="data">Data : </label>
+                    <input type="text" id="data" name="data"  onblur="dataProcess()" placeholder="1,2,3,4,5,6,7,8,9,10">
+                    &nbsp;
+                    <label id = "check" style="color:red"></label>
+                    <br><br>
+                    <output>Average :  <span id = "average" style="color: blue;"></span></output>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <output>Maximum :  <span id = "maximum" style="color: blue;"></span></output>
+                </p>
+                <h3 id="simplifiedSite">Simplified Volgenau School's Site</h3>
+                <p>
+                    <a href = "Tabs.html" target="_blank" class="site">Simplified Volgenau School's Site</a>
+                </p>
+                <br>
+                <p>
+                    <input type="submit" value="Submit" class="button">
+                    &nbsp;
+                    <input type="button" value="Clear" class="button" onclick="clearForm()">
+                </p>
+            </form>
+        </div>
+    </body>
+</html>

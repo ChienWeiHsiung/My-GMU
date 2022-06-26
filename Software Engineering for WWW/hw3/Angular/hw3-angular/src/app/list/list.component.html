@@ -1,0 +1,44 @@
+<!--  
+    List html : show all the surveys in the form of table
+-->
+<div class="body">
+    <h2> Survey List</h2>
+
+    <table class = "styled-table">
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Street</th>
+                <th>City</th>
+                <th>State</th>
+                <th>Zip</th>
+                <th>Phone</th>
+                <th>Email</th>
+                <th>Date</th>
+                <th>Checkbox</th>
+                <th>Radio</th>
+                <th>Comments</th>
+                <th>rating</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor = "let survey of surveys">
+                <td> {{survey.firstName}} </td>
+                <td> {{survey.lastName}} </td>
+                <td> {{survey.street}} </td>
+                <td> {{survey.city}} </td>
+                <td> {{survey.state}} </td>
+                <td> {{survey.zip}} </td>
+                <td> {{survey.phone}} </td>
+                <td> {{survey.email}} </td>
+                <td> {{survey.date}} </td>
+                <td> {{survey.checkbox}} </td>
+                <td> {{survey.radio}} </td>
+                <td> {{survey.comments}} </td>
+                <td> {{survey.rating}} </td>
+
+            </tr>
+        </tbody>
+    </table>
+</div>

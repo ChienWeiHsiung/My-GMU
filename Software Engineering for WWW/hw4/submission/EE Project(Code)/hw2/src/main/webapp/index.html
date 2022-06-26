@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Survey</title>
+
+        <link rel="stylesheet" type = "text/css" href="./css/hw1.css">
+        <script src="./javascript/js.js"></script>
+        <script src="./javascript/jquery.js"></script>
+
+    </head>
+    <body>
+
+        <ul class = "float">
+            <li><a href="#Name">Name</a></li>
+            <li><a href="#Address">Address</a></li>
+            <li><a href="#Contact">Contact</a></li>
+            <li><a href="#Q1">Q1</a></li>
+            <li><a href="#Q2">Q2</a></li>
+            <li><a href="#Comments">Comments</a></li>
+            <li><a href="#Raffle">Raffle</a></li>
+            <li><a href="#Rating">Rating</a></li>
+        </ul>
+
+        <p class="logo">
+            <a href = "https://www.gmu.edu/" target="_blank">
+              <img src = "logo.jpg" alt = "GMu HomePage"  >
+            </a>
+        </p>
+
+        <div class="heading">
+            <h1>Survey Form</h1>
+        </div>
+
+        <div class="form">
+            <strong>All fields marked with <span class = "star">*</span> are required.</strong>
+            <form method = "post" action="" id="myform" autocomplete = "on" onsubmit="return rollClick()">
+                <h3 id="Name">User Name</h3>
+                <p>
+                    <label for="fname">First name <span class = "star">*</span> : </label>
+                    <input type="text" id="fname" name="fname" autofocus required>
+                    &nbsp;&nbsp;&nbsp;
+                    <label for="lname">Last name <span class = "star">*</span> : </label>
+                    <input type="text" id="lname" name="lname" required><br>
+                </p>
+
+                <h3 id="Address">Address</h3>
+                <p>
+                    <label for="Street">Street Address <span class = "star">*</span> : </label>
+                    <input type="text" id="Street" name="Street" required>
+                    <br><br>
+                    <label for="City">City <span class = "star">*</span> : </label>
+                    <input type="text" id="City" name="City" required>
+                    <br><br>
+                    <label for="State">State <span class = "star">*</span> : </label>
+                    <input type="text" id="State" name="State" required>
+                    <br><br>
+                    <label for="Zip">Zip <span class = "star">*</span> : </label>
+                    <input type="text" id="Zip" name="Zip" required>
+                    <br>
+                </p>
+
+                <h3 id="Contact">Other Contact Information</h3>
+                <p>
+                    <label for="Phone">Phone <span class = "star">*</span> : </label>
+                    <input type="tel" id="Phone" name="Phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="123-456-7890" required>
+                    <br><br>
+                    <label for="Email">Email <span class = "star">*</span> : </label>
+                    <input type="email" id="Email" name="Email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" placeholder="xxx@domain.com" required>
+                    <br><br>
+                    <label for="URL">URL <span class = "star">*</span> : </label>
+                    <input type="url" id="URL" name="URL" pattern="https://.*" placeholder="https://example.com" required>
+                    <br><br>
+                    <label for="Date">Date <span class = "star">*</span> : </label>
+                    <input type="date" id="Date" name="Date" required>
+                    <br>
+                </p>
+                <h3 id="Q1">Which one did you like the most  </h3>
+                <p>
+                    <input name="ask" type="checkbox" id="Students" value="Students">
+                    <label for="Students"> Students</label>
+                    <input name="ask" type="checkbox" id="Location" value="Location">
+                    <label for="Location"> Location</label>
+                    <input name="ask" type="checkbox" id="Campus" value="Campus">
+                    <label for="Campus"> Campus</label>
+                    <input name="ask" type="checkbox" id="Atmosphere" value="Atmosphere">
+                    <label for="Atmosphere"> Atmosphere</label>
+                    <input name="ask" type="checkbox" id="Dorm" value="Dorm">
+                    <label for="Dorm"> Dorm rooms</label>
+                    <input name="ask" type="checkbox" id="Sports" value="Sports">
+                    <label for="Sports"> Sports</label>
+                </p>
+
+                <h3 id="Q2">How did you become interested in the university</h3>
+                <p>
+                    <input name="ask2" type="radio" id="Friends" value="Friends">
+                    <label for="Friends">Friends</label>
+                    <input name="ask2" type="radio" id="Television" value="Television">
+                    <label for="Television">Television</label>
+                    <input name="ask2" type="radio" id="Internet" value="Internet">
+                    <label for="Internet">Internet</label>
+                    <input name="ask2" type="radio" id="Other" value="Other">
+                    <label for="Other">Other</label>
+                </p>
+
+                <h3 id="Comments">Additional Comments</h3>
+                <p>
+                    <!-- <label for="Comments">Additional Comments :</label><br> -->
+                    <textarea id="Comments" name="Comments" rows="6" cols="80" placeholder="Write down anything you want to say here"></textarea>
+                </p>
+
+                <h3 id="Rating">Likelihood of you recommending this school to other prospective students</h3>
+                <p>
+                    <label for="rating">Rating <span class = "star">*</span> : </label>
+                    <select name="rating" id="rating" required>
+                        <option disabled selected> select an option </option>
+                        <option>Very Likely</option>
+                        <option>Likely</option>
+                        <option>Unlikely.</option>
+                    </select>
+                </p>
+                <br>
+
+                <h3 id="Raffle">Raffle</h3>
+                <p>
+                    <label>Free movie ticket if 1 of the numbers are the same.</label><br><br>
+                    <label for="fname">Enter ten comma separated numbers ranging from 1 through 100 <span class = "star">*</span> : </label>
+                    <br><br>
+                    <input type="text" id="data" name="data"  required onblur="checkInput()" placeholder="1,2,3,4,5,6,7,8,9,10">
+                    &nbsp;
+                    <label id = "check" style="color:red"></label>
+                </p><br>
+                <p>
+                    <input type="submit" value="Submit" class="button">  &nbsp;&nbsp;
+                    <input type="reset" value="Cancel" class="button">
+                </p>
+            </form>
+        </div>
+    </body>
+</html>

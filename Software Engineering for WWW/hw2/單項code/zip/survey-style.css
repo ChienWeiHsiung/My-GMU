@@ -1,0 +1,147 @@
+ul.float {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #eae9f3;
+    border: 3px solid #3f0808;
+    position: fixed;
+    top: 10%;
+    right: 10px;
+    list-style-type:none;
+    z-index: 10;
+    font-weight: 700;
+  }
+  
+ul.float li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+ul.float li {
+    text-align: center;
+    border-bottom: 1px solid #006633;
+  }
+  
+ul.float li:last-child {
+    border-bottom: none;
+  }
+  
+ul.float li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+body {
+    right: 10%;
+}
+  
+.form h3 {
+	margin: 1em 0 0.5em 0;
+	font-weight: normal;
+	position: relative;
+	text-shadow: 0 -1px #00000099;
+	font-size: 25;
+	line-height: 30px;
+	background: #FFCC33;
+	border: 2px solid #006633;
+	padding: 5px 15px;
+	color: #006633;
+	border-radius: 0 10px 0 10px;
+	box-shadow: inset 0 0 5px #35568180;
+	font-family: 'Muli', sans-serif;
+    z-index: 1;
+}
+
+.heading h1 {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 4em;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    color: #006633;
+    margin : 20px 20px;
+    text-align: center;
+}
+
+.heading {
+	margin: 1em 0 1em 0;
+	position: relative;
+	text-shadow: 0 -1px #00000099;
+	background: #eedfb1;
+	border: 5px solid #006633;
+	color: #006633;
+	box-shadow: inset 0 0 25px #d4060680;
+	font-family: 'Muli', sans-serif;
+    z-index: 1;
+    width: 60%;
+}
+
+.star {
+    color:red
+}
+
+.logo {
+    position: fixed; 
+    bottom: 0; 
+    right: 10px;
+    z-index: 10;
+}
+
+.logo img{
+    width : 200px;
+    height : 150px;
+    border: 3px solid #00000099;
+}
+
+.form{
+	padding: 20px 12px 12px 12px;
+	font: 15px Arial, Helvetica, sans-serif;
+    background-color: rgb(174, 211, 186);
+    border-radius: 10px 10px 10px 10px;
+    border: 2px solid #006633;
+}
+
+.form p{
+    margin-left: 15px;
+}
+
+.form strong{
+    margin-left: 15px;
+}
+
+body {
+    background-color: rgb(179, 174, 174);
+}
+
+.form label {
+    font-weight: bold;
+    font-size: 15;
+}
+
+.form .button{
+    display:inline-block;
+    padding:0.7em 1.4em;
+    margin:0 0em 0.3em 0;
+    border-radius:0.15em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    text-transform:uppercase;
+    font-weight:800;
+    color:#006633;
+    background-color:#e4d6ac;
+    box-shadow:inset 0 -0.6em 0 -0.35em rgba(0,0,0,0.17);
+    text-align:center;
+    position:relative;
+}
+
+input[type=text], input[type=tel], input[type=email], input[type=url], input[type=date], select {
+    width: 20%;
+    padding: 10px 10px;
+    margin: 2px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
